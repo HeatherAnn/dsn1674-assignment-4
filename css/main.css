@@ -1,0 +1,154 @@
+html {
+  background-color: #dbd6cf;
+}
+body{
+  margin: 0;
+  padding: 0.5em;
+}
+
+header{
+  background-color: #79756f;
+  padding: 1em;
+  margin: 0;
+}
+h1 {
+  color: white;
+  font-weight: normal;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-family:'Bevan', cursive;
+  text-align: center;
+  }
+}
+ul {
+  color: #713837;
+  list-style-type: none;
+  padding: 0;
+}
+nav ul {
+  list-style-type: none;
+  padding: 0.5em;
+  margin: 0.5em;
+  text-align: center;
+}
+nav li {
+  display: inline;
+}
+nav a {
+  display: inline-block;
+  padding: 0.75em 0.75em;
+  margin: 0.25em;
+  background-color: #703838;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  font-family: arial;
+}
+
+a:hover {
+  color: #fe3333;
+}
+h2 {
+  color: #79756f;
+  font-weight: normal;
+  line-height: 1.5;
+  font-family:'Bevan', cursive;
+}
+
+h3 {
+  color: #79756f;
+  font-weight: normal;
+  line-height: 1.5;
+  font-family:'Bevan', cursive;
+}
+
+/*Introduction */
+
+.firstparagraph{
+  font-family: arial,normal;
+}
+.quote{
+font-size: 1.5rem;
+font-style: italic;
+text-align: center;
+}
+.speaker {
+  font-style: italic;
+  text-align: right;
+  color: #79756f;
+}
+
+/* Terrestial Planets */
+
+ol {
+font-family: arial;
+list-style-type:lower-roman;
+}
+
+.venus{
+  font-family: arial,normal;
+  color: 79756f;
+}
+.mars {
+  font-family: arial,normal;
+  color: 79756f;
+}
+em{
+  font-family: arial;
+}
+/*Venus*/
+dl{
+  font-family: arial;
+  list-style-type: none;
+}
+dt {
+  font-family: arial;
+  font-weight: bold;
+}
+/*Mars*/
+dl{
+  font-family: arial;
+  list-style-type: none;
+}
+dt {
+  font-family: arial;
+  font-weight: bold;
+}
+figcaption {
+  font-style: italic;
+  font-family: arial;
+  color: black;
+  text-align: center;
+}
+.quotation{
+  color: #79756f;
+  font-size: 2rem;
+}
+b{
+  color: #79756f;
+}
+.pluto{
+  font-weight: normal;
+  color: #79756f
+}
+dl{
+  list-style-type: circle;
+}
+figure {
+  border: 5px;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 1em;
+  margin: 1em;
+  color: #a7a5a0;
+}
+
+footer {
+  background-color: #79756f;
+  padding: 1em;
+  margin: 0;
+  color: #703838;
+}
+.sourceheader {
+  color: white;
+}
